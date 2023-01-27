@@ -1,5 +1,5 @@
 {% set name = "geodata-harvester" %}
-{% set version = "0.1.3" %}
+{% set version = "0.1.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/geodata-harvester-{{ version }}.tar.gz
-  sha256: ff6b5cce67b0673c4405360c15acf1361ea01345a47928c858ae9a7781221c28
+  sha256: 96710e6db3d807080631905121b8086e407891b7eca03fe0fe5a1773c16c87df
 
 build:
   noarch: python
