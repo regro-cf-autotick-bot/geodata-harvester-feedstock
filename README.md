@@ -1,11 +1,11 @@
-About geodata-harvester
-=======================
+About geodata-harvester-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/geodata-harvester-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Sydney-Informatics-Hub/geodata-harvester
 
 Package license: LGPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/geodata-harvester-feedstock/blob/main/LICENSE.txt)
 
 Summary: An automation tool for harvesting and processing geodata from the web
 
